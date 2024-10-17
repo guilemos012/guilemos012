@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning OOP<br>🎯 Goals: Be the best dev as possible :)</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently trying to achieve my goals<br>🎯 Goals: Be the best dev as possible :)</p>
 
 ###
 
