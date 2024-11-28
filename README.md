@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2004<br>📚 I'm currently trying to achieve my goals<br>🎯 Goals: Be the best dev as possible :)</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently trying to achieve my goals<br>🎯 Goals: Be the best dev as possible :)</p>
 
 ###
 
@@ -33,6 +33,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
 ###
