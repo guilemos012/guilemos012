@@ -2,18 +2,7 @@
 
 ###
 
-<p align="left">My name is Guilherme and I'm a student, from Federal University of Rio de Janeiro</p>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/guilherme-lemos-oliveira/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://t.me/guilemos012" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-</div>
+<p align="left">My name is ... and I'm a ..., from ....</p>
 
 ###
 
@@ -21,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently trying to achieve my goals<br>🎯 Goals: Be the best dev as possible :)</p>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
@@ -30,11 +19,11 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 </div>
 
 ###
