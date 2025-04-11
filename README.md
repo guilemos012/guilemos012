@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Data Science<br>🎯 Goals: be the best dev as possible :)</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently working as a Back-End Developer at EJCM Consultoria<br>🎯 Goals: be the best dev as possible :)</p>
 
 ###
 
